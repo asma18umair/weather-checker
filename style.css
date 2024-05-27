@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(194, 124, 124);
+}
+
+.cardz {
+    /* clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%); */
+
+
+}
+
+.cards {
+    background-color: rgb(212, 193, 127);
+}
+
+.cards:hover {
+    background-color: rgb(162, 170, 170);
+    box-shadow: 9px 9px 8px 9px black;
+}
+
+.heading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 9px 9px 8px 9px black;
+    ;
+
+}
